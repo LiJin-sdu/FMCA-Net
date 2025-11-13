@@ -183,6 +183,8 @@ This repository contains all source code required to reproduce the results in ou
 
 👉 **GitHub repository:** https://github.com/LiJin-sdu/FMCA-Net
 
+👉 **Zenodo archived release (permanent DOI):** https://doi.org/10.5281/zenodo.17596909
+
 Once the paper is accepted, pretrained models and logs will also be released.
 
 > This codebase is directly associated with the manuscript submitted to *The Visual Computer*.  
