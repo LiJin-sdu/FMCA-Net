@@ -1,0 +1,25 @@
+torch>=2.0
+torchvision>=0.15
+
+numpy
+opencv-python
+Pillow
+matplotlib
+seaborn
+scikit-learn
+tqdm
+
+albumentations
+albumentations[imgaug]
+imgaug
+
+transformers>=4.30
+tokenizers>=0.13
+
+einops
+
+# For visualization / plots
+protobuf
+
+# For training utils
+tensorboard
